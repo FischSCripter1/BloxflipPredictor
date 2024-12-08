@@ -9,4 +9,4 @@ Bloxflip mines/crash predictor 100% accuracy (as of 9/12/24) use b4 patched by d
 requirements:
 
 any browser (if you do not have itll be auto installed for you
-make sure javascript is enabled should always be enabled (must be the one downloaded from website not from microsoft store)
+make sure javascript is enabled (it should already be enabled)
