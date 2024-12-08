@@ -10,3 +10,4 @@ requirements:
 
 any browser (if you do not have itll be auto installed for you
 make sure javascript is enabled (it should already be enabled)
+![image](https://github.com/user-attachments/assets/f4f63126-d811-47b2-8570-b14b9e395311)
